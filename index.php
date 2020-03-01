@@ -1,5 +1,7 @@
 <?php
 
+print("test");
+
 phpinfo();
 
 ?>
